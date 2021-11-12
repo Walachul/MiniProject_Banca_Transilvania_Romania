@@ -51,7 +51,7 @@ v. To install packages:
 
  Navigate to the home folder and type:
 
-     pip install requirements.txt
+     pip install -r requirements.txt
 
 **Please note that for sending email, environment variables need to be set.**
 
