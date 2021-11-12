@@ -14,6 +14,15 @@ RPA project for Banca Transilvania using Python, Tesseract, OpenCV. Automate rea
   - check if signature is present.
 - Send an email that the process is completed.
 
+## Examples from the project
+
+![Example of ROI for an invoice](https://github.com/Walachul/MiniProiect_Banca_Transilvania/blob/main/screenshots_from_project/ROI_invoice_example.PNG)
+
+
+![Sample of terminal output](https://github.com/Walachul/MiniProiect_Banca_Transilvania/blob/main/screenshots_from_project/sample_of_terminal_output.PNG)
+
+![Email sent to receiver after completion](https://github.com/Walachul/MiniProiect_Banca_Transilvania/blob/main/screenshots_from_project/mail_verificare_facturi.PNG)
+
 ## Installation
 
 - [Pytesseract](https://pypi.org/project/pytesseract/) 
