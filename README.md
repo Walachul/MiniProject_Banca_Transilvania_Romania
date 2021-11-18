@@ -1,4 +1,4 @@
-# Mini Proiect Banca Transilvania
+# Mini Project Banca Transilvania
 
 ## About
 RPA project for Banca Transilvania using Python, Tesseract, OpenCV. Automate reading of invoices and comparing with values from Excel. Send email when process is complete.
